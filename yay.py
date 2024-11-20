@@ -1,0 +1,3 @@
+blacklol = "black"
+
+print(blacklol)
